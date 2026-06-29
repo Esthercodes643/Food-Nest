@@ -1,16 +1,48 @@
-# React + Vite
+# 🍛 Food-Nest — Food Delivery Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A bold, responsive food delivery web app built with React and Tailwind CSS.
+Browse signature Biryani dishes, explore the menu, and place orders — all in a fast, modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
 
-## React Compiler
+| Hero | Biryani Zone |
+|------|-------------|
+| ![Hero](./screenshots/hero.png) | ![Menu](./screenshots/menu.png) |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| What We Offer | Reviews & Footer |
+|--------------|-----------------|
+| ![Services](./screenshots/services.png) | ![Footer](./screenshots/footer.png) |
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- 🏠 Stunning hero section with split-screen design
+- 🍽️ Menu cards — Hyderabadi, Paneer & Chicken Biryani with ratings
+- ⭐ Customer testimonials section
+- 📱 Fully responsive across all screen sizes
+- 🛒 Order Now CTA across multiple sections
+- 🔗 Multi-page navigation — Home, Services, About, Contact
+- 🦶 Detailed footer with social links and contact info
+
+## Tech Stack
+
+| Layer | Tech |
+|-------|------|
+| Frontend | React, Vite |
+| Styling | Tailwind CSS |
+| Language | JavaScript |
+
+## Getting Started
+
+```bash
+git clone https://github.com/Esthercodes643/Food-Nest.git
+cd Food-Nest
+npm install
+npm run dev
+```
+
+---
+✨
